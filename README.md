@@ -103,7 +103,7 @@ pkg install yarn
 pkg install imagemagick -y
 git clone https://github.com/DGDEEPAK/Zenitsu-Bot
 cd Zenitsu-Bot 
-yarn install
+bash install.sh
 node .
 ```
 ## `For VPS`
@@ -116,7 +116,7 @@ apt apt install imagrmagick
 apt install bash
 git clone https://github.com/DGDEEPAK/Zenitsu-Bot
 cd Zenitsu-Bot
-yarn install 
+bash install.sh 
 node .
 ```
 ## `For 24/7 Activation (Termux)`
