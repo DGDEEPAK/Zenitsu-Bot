@@ -1,5 +1,5 @@
 {
- "name": "Zenitsu-Bot",
+ "name": "ZenitsuBot",
  "description": "Multi Device Whatsapp Bot By Deepak",
  "version": "3.0.0",
  "main": "index.js",
@@ -103,10 +103,10 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/DGDEEPAK/Zenitsu-Bot.git"
+  "url": "git+https://github.com/DGDEEPAK/ZenitsuBot.git"
  },
  "bugs": {
-  "url": "https://github.com/DGDEEPAK/Zenitsu-Bot/issues"
+  "url": "https://github.com/DGDEEPAK/ZenitsuBot/issues"
  },
- "homepage": "https://github.com/DGDEEPAK/Zenitsu-Bot#readme"
+ "homepage": "https://github.com/DGDEEPAK/ZenitsuBot#readme"
 }
