@@ -14,16 +14,16 @@ Big thanks❤️ to <a href="https://github.com/Sparkymon777" target="_blank">Sp
 </p>
 
 ---
-<p align="center">
-<a href="https://youtu.be/57EKJWDgImE"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
-</p>
----
 
 <p align="center">
 <a href="https://github.com/Sparkymon777/SPARKY-BOT-MD"><img title="Size" src="https://img.shields.io/badge/SPARKY-BOT-green"></a>
 </p>
 
 ------
+<p align="center">
+<a href="https://youtu.be/57EKJWDgImE"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+</p>
+---
 
 # ```Bot Info```
 <p align="center">
