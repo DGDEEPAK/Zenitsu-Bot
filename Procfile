@@ -1,1 +1,0 @@
-worker: bash install.sh
