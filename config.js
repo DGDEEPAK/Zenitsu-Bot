@@ -101,7 +101,7 @@ global.APIs = {
 	zenz: 'https://zenzapis.xyz',
 }
 global.APIKeys = {
-	'https://zenzapis.xyz': '5d1197db351b',
+	'https://zenzapis.xyz': '39788fed50', //ur api key
 }
 
 
